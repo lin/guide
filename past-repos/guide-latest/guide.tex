@@ -1,0 +1,62 @@
+\documentclass{book}
+% \usepackage[a5paper]{geometry}
+\usepackage{xeCJK}
+\usepackage{setspace}
+\usepackage[explicit]{titlesec}
+
+\setCJKmainfont{Noto Serif SC}
+
+\title{A Guide to Life}
+\author{Yingkui Lin}
+% \thanks{ 本书为《自然而然》卷二，卷一为《智力要素》(https://github.com/lin/eoi)}
+% \thanks{ 本书的 LaTeX 源码链接：https://github.com/lin/guide }
+\date{August 2018 - August 2019}
+
+\begin{document}
+
+\titleformat{\chapter}[display]
+  {\normalfont\bfseries}{}{10pt}{\Huge #1}
+
+% \frontmatter
+% \maketitle
+
+% \tableofcontents
+% \chapter*{前言}
+% 朝闻道，夕死可矣。
+% \addcontentsline{toc}{chapter}{前言}
+
+% \mainmatter
+\doublespacing
+
+% 死亡觉醒
+% 第一章 不尽的落差
+\include{1-death/index}
+
+% 财富觉醒
+% 第二章 醒目的美味
+%\include{2-wealth/index}
+% 第三章 得失的幻象
+%\include{3-value/index}
+
+% 人格觉醒
+% 第四章 木制的利刃
+%\include{4-brain/index}
+% 第五章 提神的迷药
+%\include{5-poison/index}
+
+% 自由觉醒
+% 第六章 来世的回报
+%\include{6-civilization/index}
+% 第七章 绕路的捷径
+%\include{7-convention/index}
+
+% 智力觉醒
+% 第八章 五彩的磨石
+%\include{8-education/index}
+% 第九章 必要的偏执
+%\include{9-nature/index}
+
+% 第十章 天梯的尽头
+%\include{10-end/index}
+
+\end{document}

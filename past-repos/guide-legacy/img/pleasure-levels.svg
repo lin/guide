@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1002px" height="357px" viewBox="0 0 1002 357" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>pleasure-levels</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="pleasure-levels" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="good" transform="translate(557.000000, 109.000000)">
+            <polygon id="Rectangle-2" fill="#D1F9E2" fill-rule="nonzero" points="0 18 114 0.5 114 71 0 71"></polygon>
+            <text id="得劲" font-family="PingFangSC-Medium, PingFang SC" font-size="19" font-weight="400" fill="#6B6B6B">
+                <tspan x="38" y="48">得劲</tspan>
+            </text>
+        </g>
+        <text id="无感" font-family="PingFangSC-Medium, PingFang SC" font-size="19" font-weight="400" fill="#6B6B6B">
+            <tspan x="489" y="186">无感</tspan>
+        </text>
+        <g id="better" transform="translate(670.000000, 88.000000)">
+            <polygon id="Rectangle-3" fill="#2ECC71" fill-rule="nonzero" points="0 19.5 140 0 140 92 0 92"></polygon>
+            <text id="精彩" font-family="PingFangSC-Medium, PingFang SC" font-size="19" font-weight="400" fill="#FFFFFF">
+                <tspan x="51" y="69">精彩</tspan>
+            </text>
+        </g>
+        <g id="magic" transform="translate(810.000000, 69.000000)">
+            <polygon id="Rectangle-3" fill="#27AE60" fill-rule="nonzero" points="0 18 140 0 140 111 0 111"></polygon>
+            <text id="魔法" font-family="PingFangSC-Medium, PingFang SC" font-size="19" font-weight="400" fill="#FFFFFF">
+                <tspan x="51" y="86">魔法</tspan>
+            </text>
+        </g>
+        <polygon id="Rectangle-2" fill="#FFEBE8" fill-rule="nonzero" points="349 181 463 181 463 230 349 249.5"></polygon>
+        <polygon id="Rectangle-3" fill="#E74C3C" fill-rule="nonzero" points="209 181 349 181 349 250 209 273"></polygon>
+        <text id="费劲" font-family="PingFangSC-Medium, PingFang SC" font-size="19" font-weight="400" fill="#6B6B6B">
+            <tspan x="387" y="217">费劲</tspan>
+        </text>
+        <text id="闹挺" font-family="PingFangSC-Medium, PingFang SC" font-size="19" font-weight="400" fill="#FFFFFF">
+            <tspan x="260" y="217">闹挺</tspan>
+        </text>
+        <g id="hell" transform="translate(69.000000, 181.000000)" fill="#C0392B" fill-rule="nonzero">
+            <polygon id="Rectangle-3" points="0 0 140 0 140 91.5 0 111.5"></polygon>
+        </g>
+        <text id="煎熬" font-family="PingFangSC-Medium, PingFang SC" font-size="19" font-weight="400" fill="#FFFFFF">
+            <tspan x="120" y="217">煎熬</tspan>
+        </text>
+        <g id="right" transform="translate(221.000000, 62.000000)" fill="#0035E7">
+            <path id="Line" d="M1.90875332,60.75 L8.24513062,64.3142122 L8.68091839,64.5593429 L8.19065715,65.4309184 L7.75486938,65.1857878 L-0.24513062,60.6857878 L-1.01986443,60.25 L-0.24513062,59.8142122 L7.75486938,55.3142122 L8.19065715,55.0690816 L8.68091839,55.9406571 L8.24513062,56.1857878 L1.90875332,59.75 L8,59.75 L89.5,59.75 L90,59.75 L90,60.75 L89.5,60.75 L8,60.75 L1.90875332,60.75 Z" fill-rule="nonzero"></path>
+            <text id="痛苦" font-family="PingFangSC-Medium, PingFang SC" font-size="19" font-weight="400">
+                <tspan x="52" y="20">痛苦</tspan>
+            </text>
+            <text id="Pain" font-family="Futura-Medium, Futura" font-size="19" font-weight="400" fill-opacity="0.282580389">
+                <tspan x="52.3535156" y="46">Pain</tspan>
+            </text>
+        </g>
+        <g id="right" transform="translate(696.000000, 210.000000)" fill="#0035E7">
+            <path id="Line" d="M113.091247,60.75 L106.754869,57.1857878 L106.319082,56.9406571 L106.809343,56.0690816 L107.245131,56.3142122 L115.245131,60.8142122 L116.019864,61.25 L115.245131,61.6857878 L107.245131,66.1857878 L106.809343,66.4309184 L106.319082,65.5593429 L106.754869,65.3142122 L113.091247,61.75 L107,61.75 L0.5,61.75 L-1.66533454e-16,61.75 L-1.66533454e-16,60.75 L0.5,60.75 L107,60.75 L113.091247,60.75 Z" fill-rule="nonzero"></path>
+            <text id="享乐" font-family="PingFangSC-Medium, PingFang SC" font-size="19" font-weight="400">
+                <tspan x="0" y="20">享乐</tspan>
+            </text>
+            <text id="Pleasure" font-family="Futura-Medium, Futura" font-size="19" font-weight="400" fill-opacity="0.282580389">
+                <tspan x="0.276611328" y="46">Pleasure</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

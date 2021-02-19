@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1064px" height="443px" viewBox="0 0 1064 443" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>core</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="core" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="subject" transform="translate(138.000000, 54.000000)" font-weight="400">
+            <text id="需求" font-family="PingFangSC-Medium, PingFang SC" font-size="19" fill="#6B6B6B">
+                <tspan x="0" y="20">需求</tspan>
+            </text>
+            <text id="Needs" font-family="Futura-Medium, Futura" font-size="12" fill="#B6B6B6">
+                <tspan x="1.19628906" y="42">Needs</tspan>
+            </text>
+        </g>
+        <g id="subject" transform="translate(287.000000, 54.000000)" font-weight="400">
+            <text id="问题" font-family="PingFangSC-Medium, PingFang SC" font-size="19" fill="#6B6B6B">
+                <tspan x="6.5" y="20">问题</tspan>
+            </text>
+            <text id="Problems" font-family="Futura-Medium, Futura" font-size="12" fill="#B6B6B6">
+                <tspan x="0.870117188" y="42">Problems</tspan>
+            </text>
+        </g>
+        <g id="subject-copy" transform="translate(445.000000, 54.000000)" font-weight="400">
+            <text id="解决问题" font-family="PingFangSC-Medium, PingFang SC" font-size="19" fill="#6B6B6B">
+                <tspan x="9" y="20">解决问题</tspan>
+            </text>
+            <text id="Solving-Problems" font-family="Futura-Medium, Futura" font-size="12" fill="#B6B6B6">
+                <tspan x="0.4765625" y="42">Solving Problems</tspan>
+            </text>
+        </g>
+        <g id="subject-copy" transform="translate(645.000000, 54.000000)" font-weight="400">
+            <text id="资源配置" font-family="PingFangSC-Medium, PingFang SC" font-size="19" fill="#6B6B6B">
+                <tspan x="19" y="20">资源配置</tspan>
+            </text>
+            <text id="Resources-Allocation" font-family="Futura-Medium, Futura" font-size="12" fill="#B6B6B6">
+                <tspan x="0.670898438" y="42">Resources Allocation</tspan>
+            </text>
+        </g>
+        <path id="Line-2" d="M267.091247,75.75 L260.754869,72.1857878 L260.319082,71.9406571 L260.809343,71.0690816 L261.245131,71.3142122 L269.245131,75.8142122 L270.019864,76.25 L269.245131,76.6857878 L261.245131,81.1857878 L260.809343,81.4309184 L260.319082,80.5593429 L260.754869,80.3142122 L267.091247,76.75 L261,76.75 L201.5,76.75 L201,76.75 L201,75.75 L201.5,75.75 L261,75.75 L267.091247,75.75 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line-3" d="M425.091247,75.75 L418.754869,72.1857878 L418.319082,71.9406571 L418.809343,71.0690816 L419.245131,71.3142122 L427.245131,75.8142122 L428.019864,76.25 L427.245131,76.6857878 L419.245131,81.1857878 L418.809343,81.4309184 L418.319082,80.5593429 L418.754869,80.3142122 L425.091247,76.75 L419,76.75 L355.5,76.75 L355,76.75 L355,75.75 L355.5,75.75 L419,75.75 L425.091247,75.75 Z" fill="#979797" fill-rule="nonzero"></path>
+        <g id="subject" transform="translate(130.000000, 209.000000)" font-weight="400">
+            <text id="教育" font-family="PingFangSC-Medium, PingFang SC" font-size="19" fill="#6B6B6B">
+                <tspan x="8" y="20">教育</tspan>
+            </text>
+            <text id="Education" font-family="Futura-Medium, Futura" font-size="12" fill="#B6B6B6">
+                <tspan x="0.251953125" y="42">Education</tspan>
+            </text>
+        </g>
+        <g id="subject" transform="translate(288.000000, 209.000000)" font-weight="400">
+            <text id="学习" font-family="PingFangSC-Medium, PingFang SC" font-size="19" fill="#6B6B6B">
+                <tspan x="5.5" y="20">学习</tspan>
+            </text>
+            <text id="Learning" font-family="Futura-Medium, Futura" font-size="12" fill="#B6B6B6">
+                <tspan x="0.921875" y="42">Learning</tspan>
+            </text>
+        </g>
+        <g id="subject" transform="translate(341.000000, 348.000000)" font-weight="400">
+            <text id="知识储备" font-family="PingFangSC-Medium, PingFang SC" font-size="19" fill="#6B6B6B">
+                <tspan x="0.5" y="20">知识储备</tspan>
+            </text>
+            <text id="Knowledge" font-family="Futura-Medium, Futura" font-size="12" fill="#B6B6B6">
+                <tspan x="7.72363281" y="42">Knowledge</tspan>
+            </text>
+        </g>
+        <g id="subject" transform="translate(542.000000, 348.000000)" font-weight="400">
+            <text id="解决问题的策略" font-family="PingFangSC-Medium, PingFang SC" font-size="19" fill="#6B6B6B">
+                <tspan x="0" y="20">解决问题的策略</tspan>
+            </text>
+            <text id="Solving-Strategies" font-family="Futura-Medium, Futura" font-size="12" fill="#B6B6B6">
+                <tspan x="17.7119141" y="42">Solving Strategies</tspan>
+            </text>
+        </g>
+        <path id="Line-2" d="M267.091247,230.75 L260.754869,227.185788 L260.319082,226.940657 L260.809343,226.069082 L261.245131,226.314212 L269.245131,230.814212 L270.019864,231.25 L269.245131,231.685788 L261.245131,236.185788 L260.809343,236.430918 L260.319082,235.559343 L260.754869,235.314212 L267.091247,231.75 L261,231.75 L201.5,231.75 L201,231.75 L201,230.75 L201.5,230.75 L261,230.75 L267.091247,230.75 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line-3" d="M402.091247,230.75 L395.754869,227.185788 L395.319082,226.940657 L395.809343,226.069082 L396.245131,226.314212 L404.245131,230.814212 L405.019864,231.25 L404.245131,231.685788 L396.245131,236.185788 L395.809343,236.430918 L395.319082,235.559343 L395.754869,235.314212 L402.091247,231.75 L396,231.75 L355.5,231.75 L355,231.75 L355,230.75 L355.5,230.75 L396,230.75 L402.091247,230.75 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line-3" d="M626.091247,75.75 L619.754869,72.1857878 L619.319082,71.9406571 L619.809343,71.0690816 L620.245131,71.3142122 L628.245131,75.8142122 L629.019864,76.25 L628.245131,76.6857878 L620.245131,81.1857878 L619.809343,81.4309184 L619.319082,80.5593429 L619.754869,80.3142122 L626.091247,76.75 L620,76.75 L556.5,76.75 L556,76.75 L556,75.75 L556.5,75.75 L620,75.75 L626.091247,75.75 Z" fill="#979797" fill-rule="nonzero"></path>
+        <g id="subject-copy" transform="translate(865.000000, 52.000000)" font-weight="400">
+            <text id="落实计划" font-family="PingFangSC-Medium, PingFang SC" font-size="19" fill="#6B6B6B">
+                <tspan x="4" y="20">落实计划</tspan>
+            </text>
+            <text id="Implementation" font-family="Futura-Medium, Futura" font-size="12" fill="#B6B6B6">
+                <tspan x="0.322265625" y="44">Implementation</tspan>
+            </text>
+        </g>
+        <g id="subject-copy" transform="translate(873.000000, 209.000000)" font-weight="400">
+            <text id="反思纠正" font-family="PingFangSC-Medium, PingFang SC" font-size="19" fill="#6B6B6B">
+                <tspan x="0" y="20">反思纠正</tspan>
+            </text>
+            <text id="Reflection" font-family="Futura-Medium, Futura" font-size="12" fill="#B6B6B6">
+                <tspan x="11.7705078" y="44">Reflection</tspan>
+            </text>
+        </g>
+        <path id="Line-3" d="M846.091247,75.75 L839.754869,72.1857878 L839.319082,71.9406571 L839.809343,71.0690816 L840.245131,71.3142122 L848.245131,75.8142122 L849.019864,76.25 L848.245131,76.6857878 L840.245131,81.1857878 L839.809343,81.4309184 L839.319082,80.5593429 L839.754869,80.3142122 L846.091247,76.75 L840,76.75 L776.5,76.75 L776,76.75 L776,75.75 L776.5,75.75 L840,75.75 L846.091247,75.75 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line-3" d="M907.701389,182.091247 L911.265601,175.754869 L911.510732,175.319082 L912.382307,175.809343 L912.137177,176.245131 L907.637177,184.245131 L907.201389,185.019864 L906.765601,184.245131 L902.265601,176.245131 L902.020471,175.809343 L902.892046,175.319082 L903.137177,175.754869 L906.701389,182.091247 L906.701389,176 L906.701389,119.5 L906.701389,119 L907.701389,119 L907.701389,119.5 L907.701389,176 L907.701389,182.091247 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line-3" d="M492.701389,190.091247 L496.265601,183.754869 L496.510732,183.319082 L497.382307,183.809343 L497.137177,184.245131 L492.637177,192.245131 L492.201389,193.019864 L491.765601,192.245131 L487.265601,184.245131 L487.020471,183.809343 L487.892046,183.319082 L488.137177,183.754869 L491.701389,190.091247 L491.701389,184 L491.701389,122.5 L491.701389,122 L492.701389,122 L492.701389,122.5 L492.701389,184 L492.701389,190.091247 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line-3" d="M854.091247,229.708333 L847.754869,226.144121 L847.319082,225.89899 L847.809343,225.027415 L848.245131,225.272546 L856.245131,229.772546 L857.019864,230.208333 L856.245131,230.644121 L848.245131,235.144121 L847.809343,235.389252 L847.319082,234.517676 L847.754869,234.272546 L854.091247,230.708333 L848,230.708333 L584.5,230.708333 L584,230.708333 L584,229.708333 L584.5,229.708333 L848,229.708333 L854.091247,229.708333 Z" fill="#979797" fill-rule="nonzero"></path>
+        <g id="arrow-4" transform="translate(492.000000, 302.000000) rotate(90.000000) translate(-492.000000, -302.000000) translate(457.000000, 186.000000)">
+            <path id="Path-4" d="M66.0912467,-0.5 L59.7548694,-4.06421223 L60.2451306,-4.93578777 L68.2451306,-0.435787769 L69.0198644,-1.66533454e-16 L68.2451306,0.435787769 L60.2451306,4.93578777 L59.7548694,4.06421223 L66.0912467,0.5 L60,0.5 L48.0079314,0.5 C42.7564168,0.5 38.5,4.75523626 38.5,10.0059515 L38.5,221.994048 C38.5,227.243087 42.7549186,231.5 47.9992535,231.5 L62,231.5 L68.0912467,231.5 L61.7548694,227.935788 L62.2451306,227.064212 L70.2451306,231.564212 L71.0198644,232 L70.2451306,232.435788 L62.2451306,236.935788 L61.7548694,236.064212 L68.0912467,232.5 L62,232.5 L47.9992535,232.5 C42.202529,232.5 37.5,227.795267 37.5,221.994048 L37.5,10.0059515 C37.5,4.2028894 42.2041941,-0.5 48.0079314,-0.5 L60,-0.5 L66.0912467,-0.5 Z" fill="#979797" fill-rule="nonzero"></path>
+            <path d="M37.5041666,116.25 L0,116.25" id="Path-5" stroke="#979797"></path>
+        </g>
+        <g id="subject" transform="translate(427.000000, 207.000000)" font-weight="400">
+            <text id="解决问题的能力" font-family="PingFangSC-Medium, PingFang SC" font-size="19" fill="#6B6B6B">
+                <tspan x="0" y="20">解决问题的能力</tspan>
+            </text>
+            <text id="Solving-Abilities" font-family="Futura-Medium, Futura" font-size="12" fill="#B6B6B6">
+                <tspan x="23.1083984" y="42">Solving Abilities</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="708px" height="606px" viewBox="0 0 708 606" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>certainty-graph</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="certainty-graph" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="main" transform="translate(71.000000, 53.000000)">
+            <path d="M157,95.4399146 C196.550128,94.7778648 223.883461,97.0397516 239,102.225575 C279.270425,116.040597 304.925076,147.028409 319,186.304422 C334.89145,230.649443 346,244.079445 356,260 C366,275.920555 388.466261,306.51604 410.5,325.71636 C453,362.75109 505.636663,398.338428 546,388.5 C587.026206,374 592.5,357.93272 594,325.71636 C595.5,293.5 566.5,258.5 546,250 C517.839462,238.323679 516,243.357925 452,221.337275 C388,199.316624 352.57898,160.814962 326,136.257489 C313,124.246225 287,111.234023 262,102.225575 C245.333333,96.219943 210.333333,93.9580562 157,95.4399146 Z" id="Path" stroke="#793BE7" stroke-width="2" fill="#793BE7" fill-rule="nonzero"></path>
+            <g id="up" transform="translate(452.000000, 133.000000)" fill="#0035E7">
+                <path id="Line" d="M1,1.90875332 L-2.56421223,8.24513062 L-2.80934285,8.68091839 L-3.68091839,8.19065715 L-3.43578777,7.75486938 L1.06421223,-0.24513062 L1.5,-1.01986443 L1.93578777,-0.24513062 L6.43578777,7.75486938 L6.68091839,8.19065715 L5.80934285,8.68091839 L5.56421223,8.24513062 L2,1.90875332 L2,8 L2,68.5 L2,69 L1,69 L1,68.5 L1,8 L1,1.90875332 Z" fill-rule="nonzero"></path>
+                <text id="确定性" font-family="PingFangSC-Medium, PingFang SC" font-size="19" font-weight="400">
+                    <tspan x="14" y="37">确定性</tspan>
+                </text>
+                <text id="Certainty" font-family="Futura-Medium, Futura" font-size="19" font-weight="400" fill-opacity="0.426573822">
+                    <tspan x="14.4785156" y="63">Certainty</tspan>
+                </text>
+            </g>
+            <g id="right" transform="translate(0.000000, 422.000000)" fill="#0035E7">
+                <path id="Line" d="M116.091247,60.75 L109.754869,57.1857878 L109.319082,56.9406571 L109.809343,56.0690816 L110.245131,56.3142122 L118.245131,60.8142122 L119.019864,61.25 L118.245131,61.6857878 L110.245131,66.1857878 L109.809343,66.4309184 L109.319082,65.5593429 L109.754869,65.3142122 L116.091247,61.75 L110,61.75 L3.5,61.75 L3,61.75 L3,60.75 L3.5,60.75 L110,60.75 L116.091247,60.75 Z" fill-rule="nonzero"></path>
+                <text id="开放性" font-family="PingFangSC-Medium, PingFang SC" font-size="19" font-weight="400">
+                    <tspan x="3" y="20">开放性</tspan>
+                </text>
+                <text id="Openness" font-family="Futura-Medium, Futura" font-size="19" font-weight="400" fill-opacity="0.282580389">
+                    <tspan x="0.17578125" y="46">Openness</tspan>
+                </text>
+            </g>
+            <g id="sub" transform="translate(35.000000, 91.000000)">
+                <polyline id="Path-2" stroke="#979797" stroke-linecap="round" fill-rule="nonzero" points="122 4 83 58 0 58"></polyline>
+                <circle id="Oval" stroke="#E35983" fill="#FFFFFF" fill-rule="nonzero" cx="122" cy="4" r="4"></circle>
+                <text id="逻辑" font-family="PingFangSC-Medium, PingFang SC" font-size="19" font-weight="400" fill="#5B5B5B">
+                    <tspan x="0" y="20">逻辑</tspan>
+                </text>
+                <text id="Logic" font-family="Futura-Medium, Futura" font-size="19" font-weight="400" fill="#A8A8A8">
+                    <tspan x="0.497802734" y="46">Logic</tspan>
+                </text>
+            </g>
+            <g id="sub" transform="translate(88.000000, 91.000000)">
+                <polyline id="Path-2" stroke="#979797" stroke-linecap="round" fill-rule="nonzero" points="123 4 75.5 153 0 153"></polyline>
+                <circle id="Oval" stroke="#E35983" fill="#FFFFFF" fill-rule="nonzero" cx="123" cy="4" r="4"></circle>
+                <text id="物理" font-family="PingFangSC-Medium, PingFang SC" font-size="19" font-weight="400" fill="#5B5B5B">
+                    <tspan x="0" y="113">物理</tspan>
+                </text>
+                <text id="Physics" font-family="Futura-Medium, Futura" font-size="19" font-weight="400" fill="#A8A8A8">
+                    <tspan x="1.0480957" y="142">Physics</tspan>
+                </text>
+            </g>
+            <g id="sub" transform="translate(143.000000, 160.000000)">
+                <polyline id="Path-2" stroke="#979797" stroke-linecap="round" fill-rule="nonzero" points="186 4 138.5 153 0.5 153"></polyline>
+                <circle id="Oval" stroke="#E35983" fill="#FFFFFF" fill-rule="nonzero" cx="186" cy="4" r="4"></circle>
+                <text id="社会科学" font-family="PingFangSC-Medium, PingFang SC" font-size="19" font-weight="400" fill="#5B5B5B">
+                    <tspan x="0" y="114">社会科学</tspan>
+                </text>
+                <text id="Social-Science" font-family="Futura-Medium, Futura" font-size="19" font-weight="400" fill="#A8A8A8">
+                    <tspan x="0.185058594" y="140">Social Science</tspan>
+                </text>
+            </g>
+            <g id="sub" transform="translate(165.000000, 254.000000)">
+                <polyline id="Path-2" stroke="#979797" stroke-linecap="round" fill-rule="nonzero" points="242 4 194.5 153 0.5 153"></polyline>
+                <circle id="Oval" stroke="#E35983" fill="#FFFFFF" fill-rule="nonzero" cx="242" cy="4" r="4"></circle>
+                <text id="社会规范" font-family="PingFangSC-Medium, PingFang SC" font-size="19" font-weight="400" fill="#5B5B5B">
+                    <tspan x="0" y="114">社会规范</tspan>
+                </text>
+                <text id="Conventional-Wisdom" font-family="Futura-Medium, Futura" font-size="19" font-weight="400" fill="#A8A8A8">
+                    <tspan x="0.306152344" y="140">Conventional Wisdom</tspan>
+                </text>
+            </g>
+            <g id="sub" transform="translate(190.000000, 311.000000)">
+                <polyline id="Path-2" stroke="#979797" stroke-linecap="round" fill-rule="nonzero" points="340 5.5 282.5 173 0.5 173"></polyline>
+                <circle id="Oval" stroke="#E35983" fill="#FFFFFF" fill-rule="nonzero" cx="340" cy="4" r="4"></circle>
+                <text id="个人体验和成功" font-family="PingFangSC-Medium, PingFang SC" font-size="19" font-weight="400" fill="#5B5B5B">
+                    <tspan x="1" y="134">个人体验和成功</tspan>
+                </text>
+                <text id="Personal-Experience" font-family="Futura-Medium, Futura" font-size="19" font-weight="400" fill="#A8A8A8">
+                    <tspan x="1.05102539" y="160">Personal Experience &amp; Success</tspan>
+                </text>
+            </g>
+            <g id="sub" transform="translate(164.000000, 0.000000)">
+                <polyline id="Path-2" stroke="#979797" stroke-linecap="round" fill-rule="nonzero" points="91.5 57.5 29.5 57.5 4 95"></polyline>
+                <circle id="Oval" stroke="#E35983" fill="#FFFFFF" fill-rule="nonzero" cx="4" cy="95" r="4"></circle>
+                <text id="数学" font-family="PingFangSC-Medium, PingFang SC" font-size="19" font-weight="400" fill="#5B5B5B">
+                    <tspan x="31" y="20">数学</tspan>
+                </text>
+                <text id="Maths" font-family="Futura-Medium, Futura" font-size="19" font-weight="400" fill="#A8A8A8">
+                    <tspan x="31.3183594" y="46">Maths</tspan>
+                </text>
+            </g>
+            <g id="sub" transform="translate(274.000000, 19.000000)">
+                <polyline id="Path-2" stroke="#979797" stroke-linecap="round" fill-rule="nonzero" points="99 60.5 26.5 60.5 4 96.75"></polyline>
+                <circle id="Oval" stroke="#E35983" fill="#FFFFFF" fill-rule="nonzero" cx="4" cy="97" r="4"></circle>
+                <text id="生物学" font-family="PingFangSC-Medium, PingFang SC" font-size="19" font-weight="400" fill="#5B5B5B">
+                    <tspan x="26" y="20">生物学</tspan>
+                </text>
+                <text id="Biology" font-family="Futura-Medium, Futura" font-size="19" font-weight="400" fill="#A8A8A8">
+                    <tspan x="26.3808594" y="46">Biology</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
